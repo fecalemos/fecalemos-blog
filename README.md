@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <samp>
-<h1 align="center">Hello World! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
   Meu nome é Fernando, tenho 35 anos e me aventuro no mundo do código há 10 anos. Sempre gostei de jogos eletrônicos e tinha vontade de programá-los, mas acabei caindo no mundo da web e desktop :)
