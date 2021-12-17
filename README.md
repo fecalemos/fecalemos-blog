@@ -5,7 +5,7 @@
   Meu nome é Fernando, tenho 35 anos e me aventuro no mundo do código há 10 anos. Sempre gostei de jogos eletrônicos e tinha vontade de programá-los, mas acabei caindo no mundo da web e desktop :)
 </p>
 <p align="center">
-  Trabalho na <a href="https://www.avanade.com/pt-br" target="_blank">Avanade</a> como dev Fullstack e sou apaixonado por <strong>software</strong>, <strong>JavaScript</strong>, <strong>Angular</strong> e <strong>.NET Core </strong>
+  Trabalho na <a href="https://www.itau.com/" target="_blank">Itaú Unibanco</a> como analista de egenharia de TI e sou apaixonado por <strong>software</strong>, <strong>JavaScript</strong>, <strong>Angular</strong> e <strong>.NET Core </strong>
 </p>
 
 <p align="center">
